@@ -2,15 +2,14 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <title>Keyboard Catalog</title>
-    <link rel="stylesheet" href="../style.css" />
+    <link rel="stylesheet" href="style.css" />
   </head>
   <body>
     <header>
       <h1>Keyboard Catalog</h1>
     </header>
-
 
     <!-- Main Content Layout -->
     <section class="main-content">
@@ -22,8 +21,10 @@
           <div class="filter-group">
             <h3>Layout</h3>
             <label><input type="checkbox" name="layout" value="60%"> 60%</label><br>
+            <label><input type="checkbox" name="layout" value="65%"> 65%</label><br>
+            <label><input type="checkbox" name="layout" value="75%"> 75%</label><br>
             <label><input type="checkbox" name="layout" value="TKL"> TKL</label><br>
-            <label><input type="checkbox" name="layout" value="Full-size"> Full-size</label><br>
+            <label><input type="checkbox" name="layout" value="Full Size"> Full size</label>
           </div>
 
           <!-- Price -->
@@ -34,25 +35,35 @@
             <label><input type="checkbox" name="price" value="251-9999"> Above $250</label><br>
           </div>
 
-          <!-- Sort -->
-          <div class="filter-group">
-            <label for="sortSelect">Sort Catalog:</label>
-            <select id="sortSelect" name="sortSelect">
-              <option value="">-- No Sorting --</option>
-              <option value="newest">Newest</option>
-              <option value="priceLowHigh">Price: Low to High</option>
-            </select>
-          </div>
-
           <!-- Search -->
           <div class="filter-group">
             <label for="searchInput">Search Keyboards:</label>
             <input type="text" id="searchInput" placeholder="Enter name or brand..." />
           </div>
 
-          <!-- Submit -->
-          <button type="submit">Apply Filters</button>
+          <div class="filter-group">  
+            <label for="sortSelect">Sort Catalog:</label>
+              <select id="sortSelect" name="sortSelect">
+              <option value="">-- No Sorting --</option>
+              <option value="priceLowHigh">Price: Low to High</option>
+              <option value="priceHighLow">Price: High to Low</option>
+              </select>
+          </div>
         </form>
+
+        <!-- Frankenstein Builder -->
+        <div id="frankenstein-builder" class="filter-group">
+          <h2>Frankenstein Builder</h2>
+
+          <!-- Input for Custom Build Name -->
+          <label for="buildNameInput">Build Name:</label>
+          <input type="text" id="buildNameInput" placeholder="Enter your custom name..." />
+
+          <!-- We'll dynamically generate the dropdowns for each category here -->
+
+          <!-- Build button to finalize the Frankenstein selection -->
+          <button id="buildKeyboardBtn">Build My Keyboard</button>
+        </div>
       </aside>
 
       <!-- Catalog -->
@@ -61,6 +72,6 @@
       </section>
     </section>
 
-    <script src="../scripts1.js"></script>
+    <script type="module" src="scripts.js"></script>
   </body>
 </html>

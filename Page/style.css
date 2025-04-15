@@ -155,3 +155,17 @@ footer {
   gap: 20px;
   justify-content: flex-start;
 }
+
+/* Additional styling for the Frankenstein builder in the sidebar */
+#frankenstein-builder {
+  margin-top: 20px;
+  border-top: 1px solid #ccc;
+  padding-top: 15px;
+}
+
+/* Just a minor style for the select boxes inside the Frankenstein builder */
+#frankenstein-builder select {
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 5px;
+}

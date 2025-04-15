@@ -1,0 +1,101 @@
+Brand,Model,Layout,Switches,Connection,Hot-Swappable,Keycap Material,Backlight,Mounting Style,Case Material,Price (USD)
+Keychron,Keychron K2-1,75%,Gateron Red,Bluetooth/USB,Yes,PBT,RGB,Tray Mount,Aluminum,79.99
+Keychron,Keychron K2-2,65%,Cherry MX Brown,USB,No,ABS,White LED,Plate Mount,Plastic,89.99
+Keychron,Keychron K2-3,60%,Cherry MX Blue,Bluetooth,Yes,Double-shot,None,Top Mount,Aluminum Alloy,99.99
+Keychron,Keychron K2-4,TKL,Gateron Blue,USB,No,PBT Double-shot,RGB,Standard,Steel,109.99
+Keychron,Keychron K2-5,Full Size,Kailh Box White,Bluetooth/USB,Yes,PBT,RGB,Tray Mount,Plastic,119.99
+Ducky,Ducky One-1,75%,Gateron Red,Bluetooth/USB,Yes,PBT,RGB,Tray Mount,Aluminum,79.99
+Ducky,Ducky One-2,65%,Cherry MX Brown,USB,No,ABS,White LED,Plate Mount,Plastic,89.99
+Ducky,Ducky One-3,60%,Cherry MX Blue,Bluetooth,Yes,Double-shot,None,Top Mount,Aluminum Alloy,99.99
+Ducky,Ducky One-4,TKL,Gateron Blue,USB,No,PBT Double-shot,RGB,Standard,Steel,109.99
+Ducky,Ducky One-5,Full Size,Kailh Box White,Bluetooth/USB,Yes,PBT,RGB,Tray Mount,Plastic,119.99
+Corsair,Corsair K95-1,75%,Gateron Red,Bluetooth/USB,Yes,PBT,RGB,Tray Mount,Aluminum,79.99
+Corsair,Corsair K95-2,65%,Cherry MX Brown,USB,No,ABS,White LED,Plate Mount,Plastic,89.99
+Corsair,Corsair K95-3,60%,Cherry MX Blue,Bluetooth,Yes,Double-shot,None,Top Mount,Aluminum Alloy,99.99
+Corsair,Corsair K95-4,TKL,Gateron Blue,USB,No,PBT Double-shot,RGB,Standard,Steel,109.99
+Corsair,Corsair K95-5,Full Size,Kailh Box White,Bluetooth/USB,Yes,PBT,RGB,Tray Mount,Plastic,119.99
+Varmilo,Varmilo VA87M-1,75%,Gateron Red,Bluetooth/USB,Yes,PBT,RGB,Tray Mount,Aluminum,79.99
+Varmilo,Varmilo VA87M-2,65%,Cherry MX Brown,USB,No,ABS,White LED,Plate Mount,Plastic,89.99
+Varmilo,Varmilo VA87M-3,60%,Cherry MX Blue,Bluetooth,Yes,Double-shot,None,Top Mount,Aluminum Alloy,99.99
+Varmilo,Varmilo VA87M-4,TKL,Gateron Blue,USB,No,PBT Double-shot,RGB,Standard,Steel,109.99
+Varmilo,Varmilo VA87M-5,Full Size,Kailh Box White,Bluetooth/USB,Yes,PBT,RGB,Tray Mount,Plastic,119.99
+Leopold,Leopold FC660M-1,75%,Gateron Red,Bluetooth/USB,Yes,PBT,RGB,Tray Mount,Aluminum,79.99
+Leopold,Leopold FC660M-2,65%,Cherry MX Brown,USB,No,ABS,White LED,Plate Mount,Plastic,89.99
+Leopold,Leopold FC660M-3,60%,Cherry MX Blue,Bluetooth,Yes,Double-shot,None,Top Mount,Aluminum Alloy,99.99
+Leopold,Leopold FC660M-4,TKL,Gateron Blue,USB,No,PBT Double-shot,RGB,Standard,Steel,109.99
+Leopold,Leopold FC660M-5,Full Size,Kailh Box White,Bluetooth/USB,Yes,PBT,RGB,Tray Mount,Plastic,119.99
+Anne Pro,Anne Pro 2-1,75%,Gateron Red,Bluetooth/USB,Yes,PBT,RGB,Tray Mount,Aluminum,79.99
+Anne Pro,Anne Pro 2-2,65%,Cherry MX Brown,USB,No,ABS,White LED,Plate Mount,Plastic,89.99
+Anne Pro,Anne Pro 2-3,60%,Cherry MX Blue,Bluetooth,Yes,Double-shot,None,Top Mount,Aluminum Alloy,99.99
+Anne Pro,Anne Pro 2-4,TKL,Gateron Blue,USB,No,PBT Double-shot,RGB,Standard,Steel,109.99
+Anne Pro,Anne Pro 2-5,Full Size,Kailh Box White,Bluetooth/USB,Yes,PBT,RGB,Tray Mount,Plastic,119.99
+Logitech,Logitech G915-1,75%,Gateron Red,Bluetooth/USB,Yes,PBT,RGB,Tray Mount,Aluminum,79.99
+Logitech,Logitech G915-2,65%,Cherry MX Brown,USB,No,ABS,White LED,Plate Mount,Plastic,89.99
+Logitech,Logitech G915-3,60%,Cherry MX Blue,Bluetooth,Yes,Double-shot,None,Top Mount,Aluminum Alloy,99.99
+Logitech,Logitech G915-4,TKL,Gateron Blue,USB,No,PBT Double-shot,RGB,Standard,Steel,109.99
+Logitech,Logitech G915-5,Full Size,Kailh Box White,Bluetooth/USB,Yes,PBT,RGB,Tray Mount,Plastic,119.99
+Razer,Razer BlackWidow-1,75%,Gateron Red,Bluetooth/USB,Yes,PBT,RGB,Tray Mount,Aluminum,79.99
+Razer,Razer BlackWidow-2,65%,Cherry MX Brown,USB,No,ABS,White LED,Plate Mount,Plastic,89.99
+Razer,Razer BlackWidow-3,60%,Cherry MX Blue,Bluetooth,Yes,Double-shot,None,Top Mount,Aluminum Alloy,99.99
+Razer,Razer BlackWidow-4,TKL,Gateron Blue,USB,No,PBT Double-shot,RGB,Standard,Steel,109.99
+Razer,Razer BlackWidow-5,Full Size,Kailh Box White,Bluetooth/USB,Yes,PBT,RGB,Tray Mount,Plastic,119.99
+HyperX,HyperX Alloy-1,75%,Gateron Red,Bluetooth/USB,Yes,PBT,RGB,Tray Mount,Aluminum,79.99
+HyperX,HyperX Alloy-2,65%,Cherry MX Brown,USB,No,ABS,White LED,Plate Mount,Plastic,89.99
+HyperX,HyperX Alloy-3,60%,Cherry MX Blue,Bluetooth,Yes,Double-shot,None,Top Mount,Aluminum Alloy,99.99
+HyperX,HyperX Alloy-4,TKL,Gateron Blue,USB,No,PBT Double-shot,RGB,Standard,Steel,109.99
+HyperX,HyperX Alloy-5,Full Size,Kailh Box White,Bluetooth/USB,Yes,PBT,RGB,Tray Mount,Plastic,119.99
+SteelSeries,SteelSeries Apex-1,75%,Gateron Red,Bluetooth/USB,Yes,PBT,RGB,Tray Mount,Aluminum,79.99
+SteelSeries,SteelSeries Apex-2,65%,Cherry MX Brown,USB,No,ABS,White LED,Plate Mount,Plastic,89.99
+SteelSeries,SteelSeries Apex-3,60%,Cherry MX Blue,Bluetooth,Yes,Double-shot,None,Top Mount,Aluminum Alloy,99.99
+SteelSeries,SteelSeries Apex-4,TKL,Gateron Blue,USB,No,PBT Double-shot,RGB,Standard,Steel,109.99
+SteelSeries,SteelSeries Apex-5,Full Size,Kailh Box White,Bluetooth/USB,Yes,PBT,RGB,Tray Mount,Plastic,119.99
+Akko,Akko 3068-1,75%,Gateron Red,Bluetooth/USB,Yes,PBT,RGB,Tray Mount,Aluminum,79.99
+Akko,Akko 3068-2,65%,Cherry MX Brown,USB,No,ABS,White LED,Plate Mount,Plastic,89.99
+Akko,Akko 3068-3,60%,Cherry MX Blue,Bluetooth,Yes,Double-shot,None,Top Mount,Aluminum Alloy,99.99
+Akko,Akko 3068-4,TKL,Gateron Blue,USB,No,PBT Double-shot,RGB,Standard,Steel,109.99
+Akko,Akko 3068-5,Full Size,Kailh Box White,Bluetooth/USB,Yes,PBT,RGB,Tray Mount,Plastic,119.99
+Glorious,Glorious GMMK-1,75%,Gateron Red,Bluetooth/USB,Yes,PBT,RGB,Tray Mount,Aluminum,79.99
+Glorious,Glorious GMMK-2,65%,Cherry MX Brown,USB,No,ABS,White LED,Plate Mount,Plastic,89.99
+Glorious,Glorious GMMK-3,60%,Cherry MX Blue,Bluetooth,Yes,Double-shot,None,Top Mount,Aluminum Alloy,99.99
+Glorious,Glorious GMMK-4,TKL,Gateron Blue,USB,No,PBT Double-shot,RGB,Standard,Steel,109.99
+Glorious,Glorious GMMK-5,Full Size,Kailh Box White,Bluetooth/USB,Yes,PBT,RGB,Tray Mount,Plastic,119.99
+iKBC,iKBC CD108-1,75%,Gateron Red,Bluetooth/USB,Yes,PBT,RGB,Tray Mount,Aluminum,79.99
+iKBC,iKBC CD108-2,65%,Cherry MX Brown,USB,No,ABS,White LED,Plate Mount,Plastic,89.99
+iKBC,iKBC CD108-3,60%,Cherry MX Blue,Bluetooth,Yes,Double-shot,None,Top Mount,Aluminum Alloy,99.99
+iKBC,iKBC CD108-4,TKL,Gateron Blue,USB,No,PBT Double-shot,RGB,Standard,Steel,109.99
+iKBC,iKBC CD108-5,Full Size,Kailh Box White,Bluetooth/USB,Yes,PBT,RGB,Tray Mount,Plastic,119.99
+Vortex,Vortex Pok3r-1,75%,Gateron Red,Bluetooth/USB,Yes,PBT,RGB,Tray Mount,Aluminum,79.99
+Vortex,Vortex Pok3r-2,65%,Cherry MX Brown,USB,No,ABS,White LED,Plate Mount,Plastic,89.99
+Vortex,Vortex Pok3r-3,60%,Cherry MX Blue,Bluetooth,Yes,Double-shot,None,Top Mount,Aluminum Alloy,99.99
+Vortex,Vortex Pok3r-4,TKL,Gateron Blue,USB,No,PBT Double-shot,RGB,Standard,Steel,109.99
+Vortex,Vortex Pok3r-5,Full Size,Kailh Box White,Bluetooth/USB,Yes,PBT,RGB,Tray Mount,Plastic,119.99
+Durgod,Durgod Taurus-1,75%,Gateron Red,Bluetooth/USB,Yes,PBT,RGB,Tray Mount,Aluminum,79.99
+Durgod,Durgod Taurus-2,65%,Cherry MX Brown,USB,No,ABS,White LED,Plate Mount,Plastic,89.99
+Durgod,Durgod Taurus-3,60%,Cherry MX Blue,Bluetooth,Yes,Double-shot,None,Top Mount,Aluminum Alloy,99.99
+Durgod,Durgod Taurus-4,TKL,Gateron Blue,USB,No,PBT Double-shot,RGB,Standard,Steel,109.99
+Durgod,Durgod Taurus-5,Full Size,Kailh Box White,Bluetooth/USB,Yes,PBT,RGB,Tray Mount,Plastic,119.99
+Royal Kludge,Royal Kludge RK61-1,75%,Gateron Red,Bluetooth/USB,Yes,PBT,RGB,Tray Mount,Aluminum,79.99
+Royal Kludge,Royal Kludge RK61-2,65%,Cherry MX Brown,USB,No,ABS,White LED,Plate Mount,Plastic,89.99
+Royal Kludge,Royal Kludge RK61-3,60%,Cherry MX Blue,Bluetooth,Yes,Double-shot,None,Top Mount,Aluminum Alloy,99.99
+Royal Kludge,Royal Kludge RK61-4,TKL,Gateron Blue,USB,No,PBT Double-shot,RGB,Standard,Steel,109.99
+Royal Kludge,Royal Kludge RK61-5,Full Size,Kailh Box White,Bluetooth/USB,Yes,PBT,RGB,Tray Mount,Plastic,119.99
+Cooler Master,Cooler Master CK552-1,75%,Gateron Red,Bluetooth/USB,Yes,PBT,RGB,Tray Mount,Aluminum,79.99
+Cooler Master,Cooler Master CK552-2,65%,Cherry MX Brown,USB,No,ABS,White LED,Plate Mount,Plastic,89.99
+Cooler Master,Cooler Master CK552-3,60%,Cherry MX Blue,Bluetooth,Yes,Double-shot,None,Top Mount,Aluminum Alloy,99.99
+Cooler Master,Cooler Master CK552-4,TKL,Gateron Blue,USB,No,PBT Double-shot,RGB,Standard,Steel,109.99
+Cooler Master,Cooler Master CK552-5,Full Size,Kailh Box White,Bluetooth/USB,Yes,PBT,RGB,Tray Mount,Plastic,119.99
+Redragon,Redragon K552-1,75%,Gateron Red,Bluetooth/USB,Yes,PBT,RGB,Tray Mount,Aluminum,79.99
+Redragon,Redragon K552-2,65%,Cherry MX Brown,USB,No,ABS,White LED,Plate Mount,Plastic,89.99
+Redragon,Redragon K552-3,60%,Cherry MX Blue,Bluetooth,Yes,Double-shot,None,Top Mount,Aluminum Alloy,99.99
+Redragon,Redragon K552-4,TKL,Gateron Blue,USB,No,PBT Double-shot,RGB,Standard,Steel,109.99
+Redragon,Redragon K552-5,Full Size,Kailh Box White,Bluetooth/USB,Yes,PBT,RGB,Tray Mount,Plastic,119.99
+Fnatic,Fnatic Streak-1,75%,Gateron Red,Bluetooth/USB,Yes,PBT,RGB,Tray Mount,Aluminum,79.99
+Fnatic,Fnatic Streak-2,65%,Cherry MX Brown,USB,No,ABS,White LED,Plate Mount,Plastic,89.99
+Fnatic,Fnatic Streak-3,60%,Cherry MX Blue,Bluetooth,Yes,Double-shot,None,Top Mount,Aluminum Alloy,99.99
+Fnatic,Fnatic Streak-4,TKL,Gateron Blue,USB,No,PBT Double-shot,RGB,Standard,Steel,109.99
+Fnatic,Fnatic Streak-5,Full Size,Kailh Box White,Bluetooth/USB,Yes,PBT,RGB,Tray Mount,Plastic,119.99
+MSI,MSI Vigor-1,75%,Gateron Red,Bluetooth/USB,Yes,PBT,RGB,Tray Mount,Aluminum,79.99
+MSI,MSI Vigor-2,65%,Cherry MX Brown,USB,No,ABS,White LED,Plate Mount,Plastic,89.99
+MSI,MSI Vigor-3,60%,Cherry MX Blue,Bluetooth,Yes,Double-shot,None,Top Mount,Aluminum Alloy,99.99
+MSI,MSI Vigor-4,TKL,Gateron Blue,USB,No,PBT Double-shot,RGB,Standard,Steel,109.99
+MSI,MSI Vigor-5,Full Size,Kailh Box White,Bluetooth/USB,Yes,PBT,RGB,Tray Mount,Plastic,119.99
