@@ -34,7 +34,7 @@ let filteredKeyboards = [];
 
 // Categories we want to gather from the JSON
 // Key used in the JSON => property name in the Keyboard object => label for the user
-// The "Hot-Swappable" property is stored as "hotSwappable" in the Keyboard class, etc.
+// The "Hot-Swappable" property is stored as "hotSwappable" in the Keyboard class, etc
 const CATEGORIES = [
   { jsProp: "layout", label: "Layout" },
   { jsProp: "switches", label: "Switches" },

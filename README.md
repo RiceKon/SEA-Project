@@ -8,9 +8,8 @@ This repository contains the instructions, requirements, and starter code for St
 
 - [Your Task](#your-task)
 - [Requirements](#requirements---your-catalog-website-should)
-- [Getting Started](#getting-started)
-- [Submitting](#submitting)
-- [❓ Frequently Asked Questions (FAQ)](#-frequently-asked-questions-faq)
+- [My Work] (#My-work)
+
 
 ---
 
@@ -42,23 +41,6 @@ This repository contains the instructions, requirements, and starter code for St
 
 ---
 
-## 🛠️ Getting Started
-
-1. **Create a GitHub account** if you haven't already.
-2. Click the green **"Use as Template"** button in the upper right corner, then choose **"Create a new repository"**:  
-   a. Choose yourself as the owner  
-   b. Give your repository a name  
-   c. Click **"Create Repository"**
-3. Copy or download the files to your own computer.
-4. Open and edit the website using a text editor:
-   - Modify `index.html`, `style.css`, and `scripts.js`.
-   - To preview, open `index.html` in a web browser (double-click it).
-   - You should see something like this:
-
-<img height="300" alt="Screenshot of catalog example" src="https://github.com/Snap-Engineering-Academy-2023/rn_lab1/assets/7607483/fdd57236-50fe-48ca-956d-d9b4b12db038">
-
----
-
 ## 🚀 Submitting
 
 1. **Publish your website to the internet!**  
@@ -75,4 +57,7 @@ This repository contains the instructions, requirements, and starter code for St
 ## My work
 
 1. When I was running the website, i was required to use python -m http.server becasue there were some restriciton just pasting my path over to google chrome
-2. image of my website <img height="300" alt="Screenshot of catalog example" src="Image of website.png">
+2. image of my website 
+   <img height="300" alt="Screenshot of catalog example" src="Image of website.png">
+
+---
