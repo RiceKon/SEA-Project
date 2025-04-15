@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Keyboard Catalog</title>
+    <link rel="stylesheet" href="../style.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Keyboard Catalog</h1>
+    </header>
+
+
+    <!-- Main Content Layout -->
+    <section class="main-content">
+      <!-- Sidebar Filters -->
+      <aside class="filters">
+        <h2>Filter Catalog</h2>
+        <form id="filterForm">
+          <!-- Layout -->
+          <div class="filter-group">
+            <h3>Layout</h3>
+            <label><input type="checkbox" name="layout" value="60%"> 60%</label><br>
+            <label><input type="checkbox" name="layout" value="TKL"> TKL</label><br>
+            <label><input type="checkbox" name="layout" value="Full-size"> Full-size</label><br>
+          </div>
+
+          <!-- Price -->
+          <div class="filter-group">
+            <h3>Price</h3>
+            <label><input type="checkbox" name="price" value="0-100"> Under $100</label><br>
+            <label><input type="checkbox" name="price" value="101-250"> $101–250</label><br>
+            <label><input type="checkbox" name="price" value="251-9999"> Above $250</label><br>
+          </div>
+
+          <!-- Sort -->
+          <div class="filter-group">
+            <label for="sortSelect">Sort Catalog:</label>
+            <select id="sortSelect" name="sortSelect">
+              <option value="">-- No Sorting --</option>
+              <option value="newest">Newest</option>
+              <option value="priceLowHigh">Price: Low to High</option>
+            </select>
+          </div>
+
+          <!-- Search -->
+          <div class="filter-group">
+            <label for="searchInput">Search Keyboards:</label>
+            <input type="text" id="searchInput" placeholder="Enter name or brand..." />
+          </div>
+
+          <!-- Submit -->
+          <button type="submit">Apply Filters</button>
+        </form>
+      </aside>
+
+      <!-- Catalog -->
+      <section class="catalog" id="card-container">
+        <!-- Catalog cards will render here -->
+      </section>
+    </section>
+
+    <script src="../scripts1.js"></script>
+  </body>
+</html>
