@@ -72,61 +72,7 @@ This repository contains the instructions, requirements, and starter code for St
      …via the Google Form linked in your email.
 
 ---
+## My work
 
-## ❓ Frequently Asked Questions (FAQ)
-
-### ❄️ Is it OK that my catalog resets when I refresh the page?
-
-**Yes!** That's exactly what the starter code does too. You don't need to worry about preserving data after a page refresh.
-
----
-
-### 💻 Can I copy bits of code from online resources?
-
-**Yes, absolutely!** You should search for and use **small chunks** of code.  
-For example:
-
-- ✅ Copying code to create a dropdown menu is fine.
-- ❌ Copying a full “filter data by date” feature is not.
-
-Be thoughtful about what you borrow!
-
----
-
-### 🤖 Can I use generative AI (like ChatGPT or Copilot)?
-
-**Partially.**
-
-- ✅ You _may_ use AI tools to help write **HTML** and **CSS**.
-- ❌ You _may not_ use AI to write **JavaScript**.
-
-HTML/CSS can be tricky to get right, and it's okay to get help making things look nice.  
-But JavaScript is where you show your own logic and understanding of data!
-
----
-
-### 🧰 Can I use a different template?
-
-**Nope!**  
-You must use the provided starter code, though you're free to customize it however you like.  
-You _can_ copy **small chunks** from other templates if needed.
-
----
-
-### 🛠️ Can I use a framework like React, Vue, Bootstrap, or Tailwind?
-
-**Nope!**  
-This project is for folks new to web dev. Frameworks do a lot of heavy lifting and hide the logic we're asking you to demonstrate.  
-SEA will teach you frameworks later—stick to **vanilla HTML, CSS, and JS** for now.
-
----
-
-### 🌐 Can I use APIs?
-
-**Nope!**  
-APIs can add complexity beyond the scope of this challenge.  
-If you really want to use data from an API, **save it to a file** (like `.json` or `.csv`) and use that instead.
-
----
-
-> 💬 **Have any questions?** Drop them on the [Padlet here](https://padlet.com/arlenschallenge/2025-snap-engineering-academy-stage-2-project-assessment-que-ndmqkef3wxt8sh72) and we'll get back to you!
+1. When I was running the website, i was required to use python -m http.server becasue there were some restriciton just pasting my path over to google chrome
+2. image of my website <img height="300" alt="Screenshot of catalog example" src="Image of website.png">
